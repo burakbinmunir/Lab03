@@ -67,7 +67,6 @@ int main(int argc, char* args[]){
 			cout<<"I am child 1"<<endl;
 			sort(array,false,size); 	// true for descending order sort
 			print(array,size);
-			
 		}
 		else 
 		{
